@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @philgusev
-- 👀 I am Data Toursit and I’m interested in applying Data Analytics in Pharmaceutical field
+- 👀 I am Data Toursit, currently learning Product Analytics and interested in applying my skills in Healthcare industry
 - 🌱 I’m currently learning Data Anaytics in Turing College
 - 📫 You can reach me at: fgusev@yahoo.com
-- 😄 Pronouns: Fil
 - ⚡ Fun fact: I will think about it:)
 
 <!---

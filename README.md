@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philgusev
 - 👀 I am Data Explorer with robust experience and exceeding targets in KPI analysis, workforce optimization and financial forecasting
-- 🌱 I’m currently working as a Data Intake Specialist in Turing College taking some extra project where I can use my DA skills
+- 🌱 I’m currently working as a Data Intake Specialist in Cencora taking some extra project where I can use my DA skills
 - 📫 You can reach me at: fgusev@yahoo.com
 - ⚡ Fun fact: In my spare time I fully dedicate myself to my long-term hobby which is - writing, recording and producing music
 
